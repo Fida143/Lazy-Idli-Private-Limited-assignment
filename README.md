@@ -1,3 +1,13 @@
+# Live Demo
+https://leader-board-e0064.web.app/
+
+# Home Page 
+
+![image](https://github.com/user-attachments/assets/c0a82c51-9ca9-4fcc-bdff-283b5ff405d9)
+
+![image](https://github.com/user-attachments/assets/e314b634-1e2d-42a0-a1f8-a2866b7cf0cb)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
